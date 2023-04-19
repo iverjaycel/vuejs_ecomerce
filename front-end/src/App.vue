@@ -1,5 +1,5 @@
 <template>
- <h1> Hello Fron Vue </h1>
+ <h1> Hello Guys Vue </h1>
 </template>
 
 <script>
